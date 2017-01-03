@@ -22,7 +22,8 @@ FORMATS = {
     '.jpg': 'JPEG',
     '.jpeg': 'JPEG',
     '.gif': 'GIF',
-    '.png': 'PNG'
+    '.png': 'PNG',
+    '.webp': 'WEBP'
 }
 
 ALPHA_TYPES = [
